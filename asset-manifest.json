@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/%22https://Watt-Dev.github.io/WattDev-Homepage%22/static/css/main.4e7055c8.chunk.css",
-    "main.js": "/%22https://Watt-Dev.github.io/WattDev-Homepage%22/static/js/main.8788f32f.chunk.js",
-    "main.js.map": "/%22https://Watt-Dev.github.io/WattDev-Homepage%22/static/js/main.8788f32f.chunk.js.map",
-    "runtime-main.js": "/%22https://Watt-Dev.github.io/WattDev-Homepage%22/static/js/runtime-main.c8a25ddb.js",
-    "runtime-main.js.map": "/%22https://Watt-Dev.github.io/WattDev-Homepage%22/static/js/runtime-main.c8a25ddb.js.map",
-    "static/js/2.6621a217.chunk.js": "/%22https://Watt-Dev.github.io/WattDev-Homepage%22/static/js/2.6621a217.chunk.js",
-    "static/js/2.6621a217.chunk.js.map": "/%22https://Watt-Dev.github.io/WattDev-Homepage%22/static/js/2.6621a217.chunk.js.map",
-    "index.html": "/%22https://Watt-Dev.github.io/WattDev-Homepage%22/index.html",
-    "precache-manifest.19b50fa75807ecb21ede6666a01fcbe0.js": "/%22https://Watt-Dev.github.io/WattDev-Homepage%22/precache-manifest.19b50fa75807ecb21ede6666a01fcbe0.js",
-    "service-worker.js": "/%22https://Watt-Dev.github.io/WattDev-Homepage%22/service-worker.js",
-    "static/css/main.4e7055c8.chunk.css.map": "/%22https://Watt-Dev.github.io/WattDev-Homepage%22/static/css/main.4e7055c8.chunk.css.map",
-    "static/js/2.6621a217.chunk.js.LICENSE.txt": "/%22https://Watt-Dev.github.io/WattDev-Homepage%22/static/js/2.6621a217.chunk.js.LICENSE.txt",
-    "static/media/AppLogo.png": "/%22https://Watt-Dev.github.io/WattDev-Homepage%22/static/media/AppLogo.18aed54f.png",
-    "static/media/companyLogo.png": "/%22https://Watt-Dev.github.io/WattDev-Homepage%22/static/media/companyLogo.7a056dd1.png"
+    "main.css": "/WattDev-Homepage/static/css/main.4e7055c8.chunk.css",
+    "main.js": "/WattDev-Homepage/static/js/main.0427c9cf.chunk.js",
+    "main.js.map": "/WattDev-Homepage/static/js/main.0427c9cf.chunk.js.map",
+    "runtime-main.js": "/WattDev-Homepage/static/js/runtime-main.57f8a1fe.js",
+    "runtime-main.js.map": "/WattDev-Homepage/static/js/runtime-main.57f8a1fe.js.map",
+    "static/js/2.6621a217.chunk.js": "/WattDev-Homepage/static/js/2.6621a217.chunk.js",
+    "static/js/2.6621a217.chunk.js.map": "/WattDev-Homepage/static/js/2.6621a217.chunk.js.map",
+    "index.html": "/WattDev-Homepage/index.html",
+    "precache-manifest.ea0888dd443f9f2d7621eb9be6836bb3.js": "/WattDev-Homepage/precache-manifest.ea0888dd443f9f2d7621eb9be6836bb3.js",
+    "service-worker.js": "/WattDev-Homepage/service-worker.js",
+    "static/css/main.4e7055c8.chunk.css.map": "/WattDev-Homepage/static/css/main.4e7055c8.chunk.css.map",
+    "static/js/2.6621a217.chunk.js.LICENSE.txt": "/WattDev-Homepage/static/js/2.6621a217.chunk.js.LICENSE.txt",
+    "static/media/AppLogo.png": "/WattDev-Homepage/static/media/AppLogo.18aed54f.png",
+    "static/media/companyLogo.png": "/WattDev-Homepage/static/media/companyLogo.7a056dd1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8a25ddb.js",
+    "static/js/runtime-main.57f8a1fe.js",
     "static/js/2.6621a217.chunk.js",
     "static/css/main.4e7055c8.chunk.css",
-    "static/js/main.8788f32f.chunk.js"
+    "static/js/main.0427c9cf.chunk.js"
   ]
 }
