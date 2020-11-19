@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/%22http://Watt-Dev.github.io/WattDev-Homepage%22/precache-manifest.1bef02c7958e774cbccbe254d75d36e4.js"
+  "/%22https://Watt-Dev.github.io/WattDev-Homepage%22/precache-manifest.19b50fa75807ecb21ede6666a01fcbe0.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/%22http://Watt-Dev.github.io/WattDev-Homepage%22/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/%22https://Watt-Dev.github.io/WattDev-Homepage%22/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/?]+\.[^/]+$/],
 });
