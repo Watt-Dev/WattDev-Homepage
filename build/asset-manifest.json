@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.4e7055c8.chunk.css",
-    "main.js": "/static/js/main.179fff5e.chunk.js",
-    "main.js.map": "/static/js/main.179fff5e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.614c6464.js",
-    "runtime-main.js.map": "/static/js/runtime-main.614c6464.js.map",
-    "static/js/2.6621a217.chunk.js": "/static/js/2.6621a217.chunk.js",
-    "static/js/2.6621a217.chunk.js.map": "/static/js/2.6621a217.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.1a7f57b2adbe6c578c7fcb8d5eddae51.js": "/precache-manifest.1a7f57b2adbe6c578c7fcb8d5eddae51.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.4e7055c8.chunk.css.map": "/static/css/main.4e7055c8.chunk.css.map",
-    "static/js/2.6621a217.chunk.js.LICENSE.txt": "/static/js/2.6621a217.chunk.js.LICENSE.txt",
-    "static/media/AppLogo.png": "/static/media/AppLogo.18aed54f.png",
-    "static/media/companyLogo.png": "/static/media/companyLogo.7a056dd1.png"
+    "main.css": "/home/static/css/main.4e7055c8.chunk.css",
+    "main.js": "/home/static/js/main.fdda3c5d.chunk.js",
+    "main.js.map": "/home/static/js/main.fdda3c5d.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.6347e3b0.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.6347e3b0.js.map",
+    "static/js/2.6621a217.chunk.js": "/home/static/js/2.6621a217.chunk.js",
+    "static/js/2.6621a217.chunk.js.map": "/home/static/js/2.6621a217.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.f1e4d43494998e035c85b9cbca628cd8.js": "/home/precache-manifest.f1e4d43494998e035c85b9cbca628cd8.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.4e7055c8.chunk.css.map": "/home/static/css/main.4e7055c8.chunk.css.map",
+    "static/js/2.6621a217.chunk.js.LICENSE.txt": "/home/static/js/2.6621a217.chunk.js.LICENSE.txt",
+    "static/media/AppLogo.png": "/home/static/media/AppLogo.18aed54f.png",
+    "static/media/companyLogo.png": "/home/static/media/companyLogo.7a056dd1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.614c6464.js",
+    "static/js/runtime-main.6347e3b0.js",
     "static/js/2.6621a217.chunk.js",
     "static/css/main.4e7055c8.chunk.css",
-    "static/js/main.179fff5e.chunk.js"
+    "static/js/main.fdda3c5d.chunk.js"
   ]
 }
