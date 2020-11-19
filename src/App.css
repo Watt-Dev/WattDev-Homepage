@@ -99,17 +99,21 @@
 }
 
 .app-footer {
+  border-top: solid black;
   height: 5%;
-  margin-left: 10%;
-  margin-right: 10%;
   margin-bottom: 1%;
   padding: 2%;
   bottom: 0;
   text-align: center;
 }
 
+.mail-icon {
+  margin-right: 2%;
+  font-size: 30px;
+}
 
-@media screen and (max-width: 1100px) {
+
+@media screen and (max-width: 1150px) {
 
   .app-header {
     height: 150px;

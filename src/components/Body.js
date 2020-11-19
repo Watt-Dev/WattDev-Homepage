@@ -1,12 +1,13 @@
 import React from "react";
-import todoDummyImage from "../images/todoImage.png";
-import appLogoImage from "../images/AppLogo.png";
+import aboutUsImg from "../images/AboutUs.png";
+import visionImg from "../images/ourVision.png";
+import appLogoImage from "../images/appLogo.png";
 
 const Body = () => {
 
-    const visionImage = todoDummyImage;
+    const visionImage = visionImg;
     const appLogo = appLogoImage;
-    const contactImage = todoDummyImage;
+    const contactImage = aboutUsImg;
 
     return (
         <div>
@@ -21,9 +22,9 @@ const Body = () => {
                         Our Vision
                     </h3>
                     <div className="information-bodies">
-                        Here comes all information about our vision <br />
-                        Here comes all information about our vision <br />
-                        Here comes all information about our vision <br />
+                        We care about the nature, and want to help people <br />
+                        interact and share the best of the best from the <br />
+                        nature with each other.
                     </div>
                 </div>
             </div>
@@ -40,14 +41,14 @@ const Body = () => {
                     </h3>
                     <h4 className="SnapThat"> SNAPTHAT </h4>
                     <div className="information-bodies">
-                        Here comes all information about SnapThat <br />
-                        And maybe a link to the web app, and the store <br />
-                        where it can be bought. <br />
+                        An application where users can upload and rate <br />
+                        photosof animals, nature, landscape, and much more. <br /><br />
+
+                        Web application: Link available soon<br />
+                        Phone application:  Link available soon
                     </div>
                 </div>
             </div>
-
-
             <div className="contact-us">
                 <div className="left">
                         <span className="image-box">
@@ -56,12 +57,13 @@ const Body = () => {
                 </div>
                 <div className="right">
                     <h3 className="information-headers">
-                        Contact us
+                        About us
                     </h3>
                     <div className="information-bodies">
-                        Here comes all information about how to contact us <br />
-                        Here comes all information about how to contact us <br />
-                        Here comes all information about how to contact us <br />
+                        We are eight students from Heriot Watt Univerity, <br />
+                        Edinburgh. This Company page is part of our one-year <br />
+                        program called Software Engineering. We are a company <br />
+                        developing applications for browsers, iOS, and Android.
                     </div>
                 </div>
             </div>
