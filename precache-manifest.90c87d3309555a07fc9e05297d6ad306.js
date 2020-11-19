@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e0b4d4beafc26ba7b07ee8185177e893",
+    "revision": "0ae6cff73dd0dc6f3826b33697c6b76c",
     "url": "/%22http://Watt-Dev.github.io/WattDev-Homepage%22/index.html"
   },
   {
-    "revision": "2c33dd25131c8a120a8c",
-    "url": "/%22http://Watt-Dev.github.io/WattDev-Homepage%22/static/css/main.4e7055c8.chunk.css"
+    "revision": "140e3a58b59b19ae3660",
+    "url": "/%22http://Watt-Dev.github.io/WattDev-Homepage%22/static/css/main.ab066893.chunk.css"
   },
   {
     "revision": "a27358596a80fde41c9b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/%22http://Watt-Dev.github.io/WattDev-Homepage%22/static/js/2.6621a217.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2c33dd25131c8a120a8c",
+    "revision": "140e3a58b59b19ae3660",
     "url": "/%22http://Watt-Dev.github.io/WattDev-Homepage%22/static/js/main.7f4f75a4.chunk.js"
   },
   {
