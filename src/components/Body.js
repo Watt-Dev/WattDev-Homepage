@@ -1,7 +1,7 @@
 import React from "react";
 import aboutUsImg from "../images/AboutUs.png";
 import visionImg from "../images/ourVision.png";
-import appLogoImage from "../images/appLogo.png";
+import appLogoImage from "../images/AppLogo.png";
 
 const Body = () => {
 
