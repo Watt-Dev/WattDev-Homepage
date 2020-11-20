@@ -22,8 +22,8 @@ const Body = () => {
                         Our Vision
                     </h3>
                     <div className="information-bodies">
-                        We care about the nature, and want to help people <br />
-                        interact and share the best of the best from the <br />
+                        We care about the nature and want to help people
+                        interact and share the best of the best from the
                         nature with each other.
                     </div>
                 </div>
@@ -41,11 +41,11 @@ const Body = () => {
                     </h3>
                     <h4 className="SnapThat"> SNAPTHAT </h4>
                     <div className="information-bodies">
-                        An application where users can upload and rate <br />
-                        photosof animals, nature, landscape, and much more. <br /><br />
+                        An application where users can upload and rate
+                        photos of animals, nature, landscape, and much more. <br /><br />
 
                         Web application: Link available soon<br />
-                        Phone application:  Link available soon
+                        Phone application: Link available soon
                     </div>
                 </div>
             </div>
@@ -60,9 +60,9 @@ const Body = () => {
                         About us
                     </h3>
                     <div className="information-bodies">
-                        We are eight students from Heriot Watt Univerity, <br />
-                        Edinburgh. This Company page is part of our one-year <br />
-                        program called Software Engineering. We are a company <br />
+                        We are eight students from Heriot Watt Univerity,
+                        Edinburgh. This Company page is part of our one-year
+                        program called Software Engineering. We are a company
                         developing applications for browsers, iOS, and Android.
                     </div>
                 </div>
