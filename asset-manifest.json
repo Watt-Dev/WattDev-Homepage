@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.4a53310f.chunk.css",
-    "main.js": "/home/static/js/main.4583113c.chunk.js",
-    "main.js.map": "/home/static/js/main.4583113c.chunk.js.map",
+    "main.css": "/home/static/css/main.eaa7e84c.chunk.css",
+    "main.js": "/home/static/js/main.adb21e6f.chunk.js",
+    "main.js.map": "/home/static/js/main.adb21e6f.chunk.js.map",
     "runtime-main.js": "/home/static/js/runtime-main.6347e3b0.js",
     "runtime-main.js.map": "/home/static/js/runtime-main.6347e3b0.js.map",
     "static/js/2.e7107f70.chunk.js": "/home/static/js/2.e7107f70.chunk.js",
     "static/js/2.e7107f70.chunk.js.map": "/home/static/js/2.e7107f70.chunk.js.map",
     "index.html": "/home/index.html",
-    "precache-manifest.106698d636988e8283f8d5992b51f686.js": "/home/precache-manifest.106698d636988e8283f8d5992b51f686.js",
+    "precache-manifest.aa448a503927d140df79a4194f8ca417.js": "/home/precache-manifest.aa448a503927d140df79a4194f8ca417.js",
     "service-worker.js": "/home/service-worker.js",
-    "static/css/main.4a53310f.chunk.css.map": "/home/static/css/main.4a53310f.chunk.css.map",
+    "static/css/main.eaa7e84c.chunk.css.map": "/home/static/css/main.eaa7e84c.chunk.css.map",
     "static/js/2.e7107f70.chunk.js.LICENSE.txt": "/home/static/js/2.e7107f70.chunk.js.LICENSE.txt",
-    "static/media/AboutUs.png": "/home/static/media/AboutUs.5855397f.png",
+    "static/media/AboutUs.png": "/home/static/media/AboutUs.360f75e2.png",
     "static/media/AppLogo.png": "/home/static/media/AppLogo.2f44cda3.png",
     "static/media/companyLogo.png": "/home/static/media/companyLogo.7a056dd1.png",
-    "static/media/ourVision.png": "/home/static/media/ourVision.ac0dc9a3.png"
+    "static/media/ourVision.png": "/home/static/media/ourVision.a9fcefd5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6347e3b0.js",
     "static/js/2.e7107f70.chunk.js",
-    "static/css/main.4a53310f.chunk.css",
-    "static/js/main.4583113c.chunk.js"
+    "static/css/main.eaa7e84c.chunk.css",
+    "static/js/main.adb21e6f.chunk.js"
   ]
 }
