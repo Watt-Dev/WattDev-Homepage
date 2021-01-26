@@ -6,14 +6,10 @@ const Header = () => {
     const companyLogo = companyLogoImage;
 
     return (
-        <div>
-            <span className="logo">
-                <img src={companyLogo} className="company-logo" alt="logo" />
-            </span>
-            <span className="title">
-                <h2 className="title-name">
-                    WATTDEV
-                </h2>
+        <div className="app-header">
+            <img src={companyLogo} className="company-logo" alt="logo" />
+            <span className="header-text">
+                WATTDEV
             </span>
         </div>
     )

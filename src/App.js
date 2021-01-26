@@ -9,14 +9,8 @@ function App() {
 
     return (
         <div className="app">
-            <div className="shadow_overlay_left" />
-            <div className="shadow_overlay_bottom" />
-            <div className="app-header">
-                <Header />
-            </div>
-            <div className="app-content">
-                <Body />
-            </div>
+            <Header />
+            <Body />
             <div className="app-footer">
                 <FontAwesomeIcon className="mail-icon" icon={faMailBulk} />
                 <u>Contact us:</u><br /><br />

@@ -1,106 +1,90 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
-
 .app {
   height: 100%;
   width: 100%;
   overflow-y: scroll;
-  background: #FFFFFF;
+  background: #ffffff;
 }
 
 .app-header {
   width: 100%;
   height: 200px;
   background: linear-gradient(15deg, #EFF0D1, #eeef9f 40%, #66BB6A);
+  display: flex;
+  align-items:center;
 }
 
 .company-logo {
   width: 100px;
   height: 100px;
-  padding-top: 50%;
+  margin-left: 25%;
 }
 
-.logo {
-  display:inline-block;
-  margin-left: 15%;
-}
-
-.title {
-  display:inline-block;
-  margin-left: 5%;
-}
-
-.title-name {
-  font-family: 'Work Sans', sans-serif;
+.header-text {
   font-size: 70px;
-  font-weight: bold;
+  font-weight: bolder;
+  margin-left: 4%;
+  font-family: 'Work Sans', sans-serif;
 }
 
 .app-content {
-  margin-left: 10%;
-  margin-right: 10%;
   padding-bottom: 3%;
+  align-items: center;
 }
 
-.our-product-image {
-  width: 200px;
-  height: 200px;
-}
-
-.our-vision-image {
-  width: 200px;
-  height: 200px;
-}
-
-.contact-us-image {
-  width: 200px;
-  height: 200px;
-}
-
-.left {
-  display:inline-block;
-  vertical-align: middle;
-  width: 15%;
-  text-align: left;
+.section {
+  display: flex;
+  align-items:center;
+  margin-top: 5%;
   margin-left: 20%;
 }
 
-.right {
-  display: inline-block;
-  margin-left: 10%;
-  vertical-align: middle;
+.section-text {
+  margin-left: 5%;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
 }
 
 .information-headers {
+  margin-bottom: 2%;
   font-family: 'Work Sans', sans-serif;
-  font-size: 30px;
+  font-size: 60px;
+  font-weight: bold;
 }
 
 .information-bodies {
   font-family: 'Work Sans', sans-serif;
-  max-width: 400px;
+  max-width: 80%;
   font-size: 20px;
+  line-height: 30px;
 }
 
 .SnapThat {
   font-family: 'Work Sans', sans-serif;
+  font-weight: bold;
+  margin-bottom: 2%;
+  margin-top: 10px;
+  font-size: 30px;
+  line-height: 30px;
+}
+
+.team-members-header {
   font-size: 20px;
+  font-weight: bold;
 }
 
-.our-vision {
-  margin-bottom: 10%;
-  margin-top: 5%;
-}
-
-.our-products {
-  margin-bottom: 10%;
-}
-
-.contact-us {
-  margin-bottom: 6%;
+.team-members {
+  font-size: 20px;
+  line-height: 30px;
+  font-family: 'Work Sans', sans-serif;
 }
 
 .app-footer {
   border-top: solid black;
+  font-size: 20px;
   height: 5%;
   margin-bottom: 1%;
   padding: 2%;
@@ -120,55 +104,38 @@
     height: 150px;
   }
 
-  .company-logo {
-    width: 80px;
-    height: 80px;
-    padding-top: 40%;
+  .header-text {
+    font-size: 50px;
   }
 
-  .logo {
+  .image {
+    width: 150px;
+    height: 150px;
+  }
+
+  .section {
     margin-left: 15%;
   }
 
-  .title-name {
-    font-size: 35px;
-  }
-
-  .app-content {
-    margin-left: 3%;
-    margin-right: 3%;
-  }
-
-  .our-product-image {
-    width: 120px;
-    height: 120px;
-  }
-
-  .our-vision-image {
-    width: 120px;
-    height: 120px;
-  }
-
-  .contact-us-image {
-    width: 120px;
-    height: 120px;
-  }
-
-  .right {
-    margin-left: 7%;
-  }
-
   .information-headers {
-    font-size: 20px;
+    font-size: 40px;
   }
 
   .information-bodies {
-    max-width: 300px;
-    font-size: 14px;
+    font-size: 18px;
   }
 
   .SnapThat {
-    font-size: 14px;
+    font-size: 18px;
+  }
+
+  .team-members-header {
+    font-size: 18px;
+  }
+
+  .team-members {
+    font-size: 18px;
+    line-height: 25px;
   }
 }
 
@@ -183,31 +150,47 @@
   .company-logo {
     width: 70px;
     height: 70px;
-    padding-top: 30%;
   }
 
-  .logo {
-    margin-left: 12%;
+  .header-text {
+    font-size: 40px;
   }
 
-  .left {
-    display: block;
+  .image {
+    width: 100px;
+    height: 100px;
   }
 
-  .right {
-    margin-left: 20%;
-    display:block;
+  .section {
+    margin-left: 10%;
   }
 
-  .our-vision {
-    margin-bottom: 13%;
+  .information-headers {
+    font-size: 30px;
   }
 
-  .our-products {
-    margin-bottom: 13%;
+  .information-bodies {
+    font-size: 15px;
   }
 
-  .contact-us {
-    margin-bottom: 15%;
+  .SnapThat {
+    font-size: 15px;
+  }
+
+  .team-members-header {
+    font-size: 15px;
+  }
+
+  .team-members {
+    font-size: 15px;
+    line-height: 20px;
+  }
+
+  .app-footer {
+    font-size: 18px;
+  }
+
+  .mail-icon {
+    font-size: 20px;
   }
 }

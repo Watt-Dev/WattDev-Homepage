@@ -10,60 +10,65 @@ const Body = () => {
     const contactImage = aboutUsImg;
 
     return (
-        <div>
-            <div className="our-vision">
-                <div className="left">
-                    <span className="image-box">
-                        <img src={visionImage} className="our-vision-image" alt=" " />
-                    </span>
-                </div>
-                <div className="right">
-                    <h3 className="information-headers">
+        <div className="app-content">
+
+            <div className="section">
+                <img src={visionImage} className="image" alt=" " />
+                <div className="section-text">
+                    <div className="information-headers">
                         Our Vision
-                    </h3>
+                    </div>
                     <div className="information-bodies">
-                        We care about the nature and want to help people
-                        interact and share the best of the best from the
-                        nature with each other.
+                        With a young innovative and motivated team, we constantly try to
+                        deliver the best applications to our customers.
+                        Our mission is to inspire people to explore and capture
+                        the best photos and share it with their network.
                     </div>
                 </div>
             </div>
 
-            <div className="our-products">
-                <div className="left">
-                        <span className="image-box">
-                            <img src={appLogo} className="our-product-image" alt="logo" />
-                        </span>
-                </div>
-                <div className="right">
-                    <h3 className="information-headers">
+            <div className="section">
+                <img src={appLogo} className="image" alt="logo" />
+                <div className="section-text">
+                    <div className="information-headers">
                         Our Products
-                    </h3>
-                    <h4 className="SnapThat"> SNAPTHAT </h4>
+                    </div>
+                    <div className="SnapThat"> SNAPTHAT </div>
                     <div className="information-bodies">
-                        An application where users can upload and rate
-                        photos of animals, nature, landscape, and much more. <br /><br />
+                        SnapThat is an application where users can upload,
+                        rate, and comment on each others photos of animals, nature,
+                        landscape, and much more. <br /><br />
 
                         Web application: Link available soon<br />
                         Phone application: Link available soon
                     </div>
                 </div>
             </div>
-            <div className="contact-us">
-                <div className="left">
-                        <span className="image-box">
-                            <img src={contactImage} className="contact-us-image" alt=" " />
-                        </span>
-                </div>
-                <div className="right">
-                    <h3 className="information-headers">
+
+            <div className="section">
+                <img src={contactImage} className="image" alt=" " />
+                <div className="section-text">
+                    <div className="information-headers">
                         About us
-                    </h3>
+                    </div>
                     <div className="information-bodies">
                         We are eight students from Heriot Watt Univerity,
                         Edinburgh. This Company page is part of our one-year
                         program called Software Engineering. We are a company
                         developing applications for browsers, iOS, and Android.
+                    </div>
+                    <div className="team-members-header">
+                        <br/>Team members:
+                    </div>
+                    <div className="team-members">
+                        William Thorenfeldt - Organisational Manager/Front-End developer
+                        <br/>Calum Shepherd - Secretary/Back-End developer
+                        <br/>Simon Paton - Front-End developer
+                        <br/>Rob Bell - Front-End developer
+                        <br/>Krishna Mattapalli - Front-End developer
+                        <br/>Callum Finlayson - Back-End developer
+                        <br/>Jiachen Dong - Back-End developer
+                        <br/>Connor Ross - Report Writer
                     </div>
                 </div>
             </div>
