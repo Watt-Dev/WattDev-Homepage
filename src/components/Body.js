@@ -49,11 +49,11 @@ const Body = () => {
                 <img src={contactImage} className="image" alt=" " />
                 <div className="section-text">
                     <div className="information-headers">
-                        About us
+                        About Us
                     </div>
                     <div className="information-bodies">
                         We are eight students from Heriot Watt Univerity,
-                        Edinburgh. This Company page is part of our one-year
+                        Edinburgh.  This Company page is part of our one-year
                         program called Software Engineering. We are a company
                         developing applications for browsers, iOS, and Android.
                     </div>
