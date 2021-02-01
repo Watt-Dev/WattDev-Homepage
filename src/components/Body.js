@@ -61,14 +61,90 @@ const Body = () => {
                         <br/>Team members:
                     </div>
                     <div className="team-members">
-                        William Thorenfeldt - Organisational Manager/Front-End developer
-                        <br/>Calum Shepherd - Secretary/Back-End developer
-                        <br/>Simon Paton - Front-End developer
-                        <br/>Rob Bell - Front-End developer
-                        <br/>Krishna Mattapalli - Front-End developer
-                        <br/>Callum Finlayson - Back-End developer
-                        <br/>Jiachen Dong - Back-End developer
-                        <br/>Connor Ross - Report Writer
+                        <table className="table">
+                            <tr>
+                                <th className="table-header-left">
+                                    Name
+                                </th>
+                                <th className="table-middle"/>
+                                <th className="table-header-right">
+                                    Position
+                                </th>
+                            </tr>
+                            <tr>
+                                <td className="table-data-left">
+                                    William Thorenfeldt
+                                </td>
+                                <td className="table-middle"/>
+                                <td className="table-data-rigth">
+                                    Organisational Manager/Front-End developer
+                                </td>
+                            </tr>
+                            <tr>
+                                <td className="table-data-left">
+                                    Calum Shepherd
+                                </td>
+                                <td className="table-middle"/>
+                                <td className="table-data-rigth">
+                                    Secretary/Back-End developer
+                                </td>
+                            </tr>
+                            <tr>
+                                <td className="table-data-left">
+                                    Simon Paton
+                                </td>
+                                <td className="table-middle"/>
+                                <td className="table-data-rigth">
+                                    Front-End developer
+                                </td>
+                            </tr>
+                            <tr>
+                                <td className="table-data-left">
+                                    Rob Bell
+                                </td>
+                                <td className="table-middle"/>
+                                <td className="table-data-rigth">
+                                    Front-End developer
+                                </td>
+                            </tr>
+                            <tr>
+                                <td className="table-data-left">
+                                    Krishna Mattapalli
+                                </td>
+                                <td className="table-middle"/>
+                                <td className="table-data-rigth">
+                                    Front-End developer
+                                </td>
+                            </tr>
+                            <tr>
+                                <td className="table-data-left">
+                                    Callum Finlayson
+                                </td>
+                                <td className="table-middle"/>
+                                <td className="table-data-rigth">
+                                    Back-End developer
+                                </td>
+                            </tr>
+                            <tr>
+                                <td className="table-data-left">
+                                    Jiachen Dong
+                                </td>
+                                <td className="table-middle"/>
+                                <td className="table-data-rigth">
+                                    Back-End developer
+                                </td>
+                            </tr>
+                            <tr>
+                                <td className="table-data-left">
+                                    Connor Ross
+                                </td>
+                                <td className="table-middle"/>
+                                <td className="table-data-rigth">
+                                    Report Writer
+                                </td>
+                            </tr>
+
+                        </table>
                     </div>
                 </div>
             </div>

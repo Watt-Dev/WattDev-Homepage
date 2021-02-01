@@ -97,6 +97,31 @@
   font-size: 30px;
 }
 
+.table-header-left {
+  text-align: left;
+}
+
+.table-data-left {
+  text-align: left;
+  line-height: 25px;
+}
+
+.table-data-right {
+  text-align: left;
+}
+
+.table-header-right {
+  text-align: left;
+}
+
+.table {
+  border-collapse: separate;
+  margin-top: 2%;
+}
+
+.table-middle {
+  width: 4%;
+}
 
 @media screen and (max-width: 1150px) {
 
