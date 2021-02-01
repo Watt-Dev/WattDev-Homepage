@@ -189,12 +189,15 @@
   }
 
   .image {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0%);
     width: 100px;
     height: 100px;
   }
 
   .section {
-    margin-left: 10%;
+    display: block;
   }
 
   .information-headers {
